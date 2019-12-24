@@ -68,7 +68,11 @@ h6 {
 }
 
 .figlio{
-  width: 32%;
+  width: 80%;
+}
+
+.fullimage{
+  width: 100%;
 }
 
 /* Back to top button */
