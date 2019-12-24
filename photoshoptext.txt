@@ -1,0 +1,41 @@
+  <div class="row">
+            <div class="col-1"></div>
+            <div class="details col-10" style="text-align: justify;">
+              <!-- <h2>Brenden Legros</h2> -->
+              <!-- <div class="social">
+                <a href=""><i class="fa fa-twitter"></i></a>
+                <a href=""><i class="fa fa-facebook"></i></a>
+                <a href=""><i class="fa fa-google-plus"></i></a>
+                <a href=""><i class="fa fa-linkedin"></i></a>
+              </div> -->
+              
+              <h3 style="font-weight: bold; text-align: center;">Belajar Photoshop Dari Nol. Yakin Deh, Habis Ini Kamu Langsung Bisa</h3>
+
+              <h4 style="font-weight: bold; text-align: left;">Kenali Bagian Ruang Kerja Photoshop</h4>
+              
+              <p>Langkah awal dalam belajar photoshop adalah kenali dan pelajari terlebih dahulu bagian-bagian pada ruang kerja photoshop seperti menu bar, option bar dan bagian-bagian lainnya. Dan berikut adalah penjelasan dari bagian-bagian ruang kerja di photoshop.</p>
+
+              <img src="img/PhotoshopMateri/Bagian-Ruang-Kerja-Photoshop.jpg" style="width: 100%; margin-top: 10px; margin-bottom: 20px;">
+
+              <p>1. <b>Halaman Kerja</b>, tempat untuk melakukan proses editing gambar.</p>
+              <p>2. <b>Menu Bar</b>, Bagian photoshop yang memiliki banyak menu dan berguna untuk membuat perintah (seperi New, Open, Save, dan lain sebagainya).</p>
+              <p>3. <b>Tool Bar</b>, atau dikenal juga Tools Box adalah sebuah bar yang berisi berbagai macam tools dalam melakukan editing.</p>
+              <p>4. <b>Option Bar</b>, pengaturan lanjutan pada tool yang digunakan. Panel atau Palette, sebuah panel yang memiliki kegunaan masing-masing (Navigation, Color, History, Layer, dan lain-lain).</p>
+              
+              <h4 style="font-weight: bold; text-align: left; margin-top: 20px;">Pelajari Kegunaan Layer</h4>
+              <img src="img/PhotoshopMateri/Panel-Layer.jpg" style="width: 100%; margin-top: 10px; margin-bottom: 20px;">
+              <p>Layer sendiri adalah sebuah lapisan-lapisan dalam editing gambar (jadi tiap objek ada layer-layernya, untuk mempermudah editing). Nah, dalam mempelajari layer ini sobat harus mempelajari fungsi-fungsi yang ada di panel layer maupun menu layer seperti seperti membuat layer baru, jenis layer, dan lain sebagainya.</p>
+
+              <h4 style="font-weight: bold; text-align: left; margin-top: 20px;">Pelajari Fungsi Tool</h4>
+              <img src="img/PhotoshopMateri/toolbox.jpg" style="width: 30%; height: 23%; margin-top: 10px; margin-bottom: 20px;">
+
+              <p>Yap, seperti yang kita ketahui bersama bahwa tools adalah bagian penting dalam photoshop. Karena, semua proses editing yang kita lakukan di photoshop pasti menggunakan tool. Dan berikut adalah penjelasan singkat mengenai jenis-jenis tool dan fungsinya.</p>
+              <p>1. <b>Selection Tools</b>, berfungsi untuk melakukan seleksi pada objek di sebuah gambar (Lasso Tool, Magic Wand Tool, dan lain sebagainya).</p>
+              <p>2. <b>Crop And Slice Tools</b>, berfungsi untuk memotong objek.</p>
+              <p>3. <b>Annotation, Measuring dan Navigation Tools</b>, berfungsi untuk memberi catatan, mengukur dan fungsi navigasi (Ruler Tool, Note Tool dan lain sebagainya).</p>
+              <p>4. <b>Painting Tool</b>, berfungsi untuk memberikan warna pada sebuah objek atau gambar (Paint Bucket, Gradient, Brush Tool dan lain sebagainya).</p>
+              <p>5. <b>Drawing And Type Tool</b>, berfungsi untuk menggambar dan menambah tulisan pada gambar (Pen Tool, Type Tool, dan lain sebagainya).</p>
+              <p>6. <b>Retouching Tools</b>, berfungsi untuk memperhalus, mengedit dan retouching pada foto (Smudge Tool, Blur Tool, dan lain sebagainya).</p>
+            </div>
+            <div class="col-1"></div>
+          </div>
